@@ -1,0 +1,25 @@
+File Path: sample_directory_structure\dir1\file1.txt
+File Permissions: -rw-rw-rw-
+Parent Directory Permissions: drwxrwxrwx
+Differences: Missing execute permission compared to parent directory
+
+File Path: sample_directory_structure\dir1\file2.sh
+File Permissions: -rw-rw-rw-
+Parent Directory Permissions: drwxrwxrwx
+Differences: Missing execute permission compared to parent directory
+
+File Path: sample_directory_structure\dir1\subdir1\file3.log
+File Permissions: -rw-rw-rw-
+Parent Directory Permissions: drwxrwxrwx
+Differences: Missing execute permission compared to parent directory
+
+File Path: sample_directory_structure\dir2\file4.txt
+File Permissions: -r--r--r--
+Parent Directory Permissions: drwxrwxrwx
+Differences: Missing execute permission compared to parent directory
+
+File Path: sample_directory_structure\dir2\file5.bin
+File Permissions: -rw-rw-rw-
+Parent Directory Permissions: drwxrwxrwx
+Differences: Missing execute permission compared to parent directory
+
